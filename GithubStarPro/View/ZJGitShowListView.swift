@@ -35,6 +35,7 @@ class ZJGitShowListView: UIView {
         super.init(frame: frame)
         self.backgroundColor = UIColor.red
         setUpMyOrderList()
+    
     }
     
     //开始设置UI界面
